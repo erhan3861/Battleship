@@ -1,4 +1,4 @@
-# Battleship
+# Battleship Game
 This game is written with Python.
 
 In this game following issues are practiced.
